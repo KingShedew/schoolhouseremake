@@ -1,1 +1,1 @@
-I'm trying to remake the Raldi's Crckhouse file so that it doesn't get detected through Gaggle or anything. This is because a bunch of people I know who's school has Gaggle installed are playing R@ldi's Cr@ckhouse. I don't think it will detect it, but I just want to be safe.
+I'm trying to remake the Raldi's Crckhouse file so that it doesn't get detected through Gaggle or anything. This is because a bunch of people I know who's school has Gaggle installed are playing R@ldi's Cr@ckhouse. I don't think Gaggle will detect it, but I just want to be safe.
