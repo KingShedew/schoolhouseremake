@@ -1,1 +1,1 @@
-Raldi's Cr@ckhouse that is supposed to be undetectable from Gaggle
+A Raldi's Cr@ckhouse file that is supposed to be undetectable throught Gaggle.
